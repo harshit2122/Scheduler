@@ -1,0 +1,41 @@
+.section3__text {
+    position: absolute;
+    left: 11.79%;
+    right: 72.62%;
+    top: 40%;
+    bottom: 62.63%;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+    
+    letter-spacing: 0.02em;
+    
+    /* B3 */
+    
+    color: #515151;
+    }
+    
+    hr {
+        position: absolute;
+        width: 572px;
+        height: 0px;
+        left: 437px;
+        top: 42%;
+        
+        /* B4 */
+        
+        border: 1px solid #939393;
+    }
+    
+    .section3__button {
+        position: absolute;
+        top: 42%;
+        left: 1100px;
+        color:white;
+        background-color: #0047B1;
+        border-radius: 9px;
+    }
