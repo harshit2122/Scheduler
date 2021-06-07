@@ -1,0 +1,174 @@
+
+
+.Activity{
+    position: absolute;
+left: 11.79%;
+right: 72.62%;
+top: 34.64%;
+bottom: 62.63%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+letter-spacing: 0.02em;
+
+/* B3 */
+
+color: #515151;
+}
+
+.Week{
+    position: absolute;
+width: 1200px;
+height: 27px;
+left: 170px;
+top: 319px;
+
+background: #E2E2E2;
+border-radius: 13.5px;
+}
+
+.Mon{
+    position: absolute;
+width: 33px;
+height: 16px;
+left: 60px;
+top: -8px;
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;
+
+/* Grey shades/Hover grey */
+
+color: #515151;
+}
+.Tue{
+    position: absolute;
+width: 33px;
+height: 16px;
+left: 230px;
+top: -8px;
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;
+
+/* Grey shades/Hover grey */
+
+color: hsl(0, 0%, 32%);
+}
+
+.Wed{
+    position: absolute;
+width: 33px;
+height: 16px;
+left: 400px;
+top: -8px;
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;
+
+/* Grey shades/Hover grey */
+
+color: #515151;
+}
+
+.Thurs{
+    position: absolute;
+    width: 33px;
+    height: 16px;
+    left: 570px;
+    top: -8px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    
+    /* Grey shades/Hover grey */
+    
+    color: #515151;
+    }
+
+
+.Fri{
+    position: absolute;
+    width: 33px;
+    height: 16px;
+    left: 740px;
+    top: -8px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    
+    /* Grey shades/Hover grey */
+    
+    color: #515151;
+    }
+
+
+.Sat{
+    position: absolute;
+    width: 33px;
+    height: 16px;
+    left: 910px;
+    top: -8px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    
+    /* Grey shades/Hover grey */
+    
+    color: #515151;
+    }
+
+
+.Sun{
+    position: absolute;
+    width: 33px;
+    height: 16px;
+    left: 1080px;
+    top: -8px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    
+    /* Grey shades/Hover grey */
+    
+    color: #515151;
+    }
+
+.Bottom{
+    position: absolute;
+width: 1200px;
+height: 370px;
+left: 170px;
+top: 359px;
+
+/* Grey shades/White_2 */
+
+background: #F6F6F6;
+}
+
